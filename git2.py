@@ -3,3 +3,6 @@ def example():
 
 message= example()
 print (message)
+
+def say_goodbye():
+    print("Goodbye")
